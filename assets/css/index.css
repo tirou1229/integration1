@@ -1,0 +1,145 @@
+ /*=================HEADER 1.0===============*/
+
+.blog{
+	        width: auto;
+	        height: 50px;
+	        border:0.5px solid #152128;
+	        padding-top: 5.5px;
+}
+.sign{
+	        padding-left: 20px;
+}
+.btn{
+            background-color: #2EA2CC;
+            color: #fff;
+}
+
+/*==================Icons 1.1=====================*/
+.icons{
+	        width: auto;
+	        height: 35px;
+}
+ul, li ,a{
+	        display: inline;
+
+}
+.blocks{
+	        width: 50px;
+	        height: 50px;
+	        border: 1px #abc solid; 
+	        margin: 0;
+	       
+
+}
+
+.icon{
+	        float: right;
+	        margin-right: 50px;
+}
+
+/*=================nav bar right=====================*/
+.navbar{
+	        padding-right: 180px;
+	        padding-left: 150px;
+}
+
+.profits{
+	        color: #fff;
+	        font-size: 35px;
+	        font-weight: bold;
+	        padding-top: 250px;	 
+	        width: 590px;      
+}
+.txt{
+	        background:url(../../img/cropped-bookshelf.jpg)no-repeat;
+	        height: 550px;
+	        width: auto;
+	        padding-left: 50px;
+
+}
+.btn1{
+	        background-color: #D7B221;
+	        border:none;
+	        width: auto;
+	        height: 50px;
+	        font-size: 20px;
+}
+.intro , .intro1 , .intro2 {
+	        width: 330px;
+	        height: 150px;
+	        display: inline-flex;
+	        margin-left: 20px;
+}
+.fulbright{
+	        text-align: center;
+	        padding-top: 50px;
+	        padding-left: 80px;
+	        width: 250px;
+	        color: #fff;
+
+}
+.intro{
+	        background:url(../../img/language-school-834138_1920.jpg)no-repeat;
+	        background{
+	        	opacity: 0.7;
+	        }
+}
+.intro1{
+	        background:url(../../img/man-140547_1920.jpg)no-repeat;
+}
+.intro2{
+	        background:url(../../img/cropped-school-bell-tower-1295714.jpg)no-repeat;
+}
+/*=============recent post================*/
+article {
+            margin-top: 100px; 
+        }
+article h2 {
+            color: #000;
+            font-weight: bold; 
+        }
+article h3 {
+            color: #202930;
+            font-weight: bold; 
+        }
+article .date {
+            color: #c1a79d; 
+        }
+article span {
+            color: #d7b221;
+        }
+.forget{
+	        width: 250px;
+	        float: right;
+}
+.foot{
+	        width: auto;
+}
+
+/*=====================FOOTER==============*/
+footer{
+	        margin-top: 50px;
+}
+footer h4 {
+            color: #a5a2a9;
+            font-size: 14px; 
+        }
+footer li {
+            list-style: none;
+            width: 190px;
+            margin-top: 10px;
+            margin-left: -40px; 
+        }
+footer a {
+            color: #272956; 
+        }
+
+.theend {
+            color: #aab9e0;
+            width: 196px;
+            margin-left: 440px;
+            margin-top: 110px; 
+        }
+.test{
+	        padding-left: 15px;
+}
